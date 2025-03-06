@@ -43,7 +43,7 @@ This architecture ensures **seamless, real-time customer data processing** while
 - A **Python script** generates synthetic customer data in real-time.
 - Data is **written to a mounted volume** inside the Docker container.
 
-![Jupyter Notebook running inside Docker](Project%20images/customer%20data.png)
+![Jupyter Notebook running inside Docker](Project%20images/customer_data.png)
 
 ---
 
